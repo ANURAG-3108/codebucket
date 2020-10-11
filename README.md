@@ -1,1 +1,1 @@
-# Codebucket Project is collection of codes
+* Codebucket Project is collection of codes
